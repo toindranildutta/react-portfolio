@@ -114,19 +114,23 @@ function HeroSection() {
               <div className="ml-4 lg:ml-8 mr-2">
                 <span className=" text-white">skills:</span>
                 <span className="text-gray-400">{`['`}</span>
+                <span className="text-amber-300">Java</span>
+                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">React</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">NextJS</span>
+                <span className="text-amber-300">Spring Boot</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Redux</span>
+                <span className="text-amber-300">Micronaut</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Express</span>
+                <span className="text-amber-300">Hibernate</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">NestJS</span>
+                <span className="text-amber-300">NextJs</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">MySql</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">MongoDB</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Git</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Docker</span>
                 <span className="text-gray-400">{"', '"}</span>
@@ -171,7 +175,7 @@ function HeroSection() {
                 <span className="ml-12 lg:ml-24 text-cyan-400">this.</span>
                 <span className="mr-2 text-white">skills.length</span>
                 <span className="mr-2 text-amber-300">&gt;=</span>
-                <span className="text-orange-400">5</span>
+                <span className="text-orange-400">8</span>
               </div>
               <div><span className="ml-8 lg:ml-16 mr-2 text-gray-400">{`);`}</span></div>
               <div><span className="ml-4 lg:ml-8 text-gray-400">{`};`}</span></div>
