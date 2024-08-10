@@ -3,18 +3,18 @@ export const experiences = [
     id: 1,
     title: 'Java Developer Intern',
     company: "Infosys Springboard",
-    duration: "(Apr 2024 - Present)"
-  },
-  {
+    duration: "(Mar 2024 - June 2024)"
+  },{
     id: 2,
-    title: "Software Developer Intern",
-    company: "Edunet Foundation",
-    duration: "(Dec 2023 - Jan 2024)"
+    title: "Backend Developer Trainee",
+    company: "Anudip Foundation",
+    duration: "(Feb 2024 - Mar 2024)"
   },
   {
     id: 3,
-    title: "Self Employed",
-    company: "Freelance Designer and Developer",
-    duration: "(Mar 2020 - Mar 2022)"
+    title: "Software Developer Intern",
+    company: "Edunet Foundation",
+    duration: "(Dec 2023 - Jan 2024)"
   }
+  
 ]

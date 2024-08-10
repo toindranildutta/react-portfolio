@@ -5,7 +5,6 @@ export const skillsData = [
   'Java',
   'SpringBoot',
   'React',
-  'Next JS',
   'Tailwind',
   'MongoDB',
   'MySQL',
